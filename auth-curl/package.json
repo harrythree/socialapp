@@ -1,0 +1,10 @@
+{
+  "name": "authcurl",
+  "dependencies": {
+    "bcrypt": "^0.8.0",
+    "body-parser": "^1.9.2",
+    "express": "^4.10.1",
+    "jwt-simple": "^0.2.0",
+    "lodash": "^2.4.1"
+  }
+}
